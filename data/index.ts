@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "Peso",
     des: "Create tables, dashboards, workflows and many more. Accounts receivable automation software.",
-    img: "/peso.svg",
+    img: "/peso.png",
     iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/frm.svg"],
     link: "https://app.pesohq.com",
   },
